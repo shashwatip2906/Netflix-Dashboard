@@ -16,6 +16,9 @@ The dashboard explores Netflix's content across different categories, including:
 - **Countries:** Exploring the countries associated with Netflix titles.
 - **Ratings:** Understanding the ratings assigned to different titles.
 
+<img width="1917" height="1198" alt="Screenshot 2026-10-29 225715" src="https://github.com/user-attachments/assets/a2f1eacd-c9ab-4c63-a310-4a1151e2841e" />
+
+
 ## Tools Used
 
 - **Tableau** — for creating the dashboard and visualizing the data.
